@@ -1,0 +1,9 @@
+## Generating Code: More Information Needed
+
+I'd be happy to help you generate code, but I need some more information to provide the best possible assistance. Please specify:
+
+* **Programming language:** Which language do you want the code in? (Python, Java, C++, JavaScript, etc.)
+* **Purpose of the code:** What do you want the code to achieve? (e.g., solve a math problem, create a game, analyze data, etc.)
+* **Specific requirements or functionality:** Are there any specific features or algorithms you need the code to include? 
+
+The more details you provide, the better I can understand your needs and generate relevant and functional code for you. 

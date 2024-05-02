@@ -1,0 +1,18 @@
+## Basic Java Program: Hello World!
+
+This program will simply print "Hello, World!" to the console. It's the classic first program for any new programming language.
+
+```java
+public class HelloWorld {
+
+  public static void main(String[] args) {
+    System.out.println("Hello, World!");
+  }
+}
+```
+
+**Explanation:**
+
+1. **`public class HelloWorld`**: This line declares a public class named `HelloWorld`. In Java, every program must have at least one class, and the file name should match the class name (HelloWorld.java).
+2. **`public static void main(String[] args)`**: This line defines the `main` method, which is the entry point for any Java application. The `public` keyword means the method can be accessed from anywhere, `static` means it can be called without creating an instance of the class, `void` means it doesn't return any value, and `main` is the specific name that the Java runtime looks for.
+3. **`System.out.println("Hello, World!")`**: This line prints the string "Hello, World!" to the console. `System.
